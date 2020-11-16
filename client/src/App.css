@@ -1,0 +1,21 @@
+body {
+  background: url("./images/Background-Image.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: courier !important;
+}
+.container{
+  margin-top:130px;
+  margin-bottom:100px;
+}
+
+
+p {
+  font-family: Courier;
+}
+
+h2 {
+  font-family: Courier;
+}
